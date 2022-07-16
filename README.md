@@ -27,8 +27,8 @@ This is my first solution to the Frontend Mentor challenges. It's a basic card c
 
 ### Links
 
-- Solution URL: [github.com/ferlagher/FMC-QR-code-component](https://github.com/ferlagher/FMC-QR-code-component)
-- Live Site URL: [ferlagher.github.io/FMC-QR-code-component/](https://ferlagher.github.io/FMC-QR-code-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/card-component-using-flexbox-NiyOkY83l5](https://www.frontendmentor.io/solutions/card-component-using-flexbox-NiyOkY83l5)
+- Live Site URL: [https://ferlagher.github.io/FMC-QR-code-component/](https://ferlagher.github.io/FMC-QR-code-component)
 
 ## My process
 
