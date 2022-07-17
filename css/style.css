@@ -50,7 +50,7 @@ body {
     align-items: center;
 }
 
-article {
+div {
     background-color: var(--color-white);
     width: 320px;
     height: 500px;
